@@ -24,5 +24,7 @@ Supported features:
 
 ### Hardware Wallets Support
 
+List of supported hardware wallets.
+
 
 
