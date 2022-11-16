@@ -10,6 +10,7 @@ With the current documentation you can:
 * Utilize Wallet Adapter to integrate Pontem wallet together with other wallets.
 * Learn how to do native integration into Pontem wallet so your DApp can be reached from wallet itself.
 * Learn how contributed Ledger support for Aptos network and how to integrate it in your own wallet.
+* See who already integrated with Pontem wallet and can become next.
 
 ## Ecosystem Overview
 
@@ -22,4 +23,6 @@ Supported features:
 Supported features:
 
 ### Hardware Wallets Support
+
+
 

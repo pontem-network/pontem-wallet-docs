@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Ecosystem Projects](ecosystem-projects.md)
 * [Getting Started](getting-started/README.md)
   * [API Reference](getting-started/api-reference.md)
   * [Demo](getting-started/demo.md)
